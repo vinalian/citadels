@@ -1,2 +1,4 @@
 /backend/.env
 /backend/poetry.lock
+.venv
+.idea
